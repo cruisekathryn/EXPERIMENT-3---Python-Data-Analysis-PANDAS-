@@ -103,7 +103,7 @@ cars.loc[(cars['Model'] == 'Mazda RX4 Wag') |
 ```
 Where the result will be:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5f4ab14d-8170-41b3-a1fa-e8f24cb43e54" alt="Problem 1 Example"/>
+  <img src="https://github.com/user-attachments/assets/58c5bf77-6d70-415f-8e89-5509c120e23c" alt="Problem 1 Example"/>
 </p>  
 
 ## Version History
